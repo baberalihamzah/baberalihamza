@@ -31,17 +31,17 @@ greeting:
   title: "Baber Ali Hamza"
   text: "I'm a Master's graduate in Construction Engineering and Project Management from Concordia University and a licensed architect in South Asia with a Bachelor's in Architecture. My thesis focused on mental health facility design, exploring how spatial planning influences well-being.\nProficient in Revit, AutoCAD, BIM 360, Navisworks, and Primavera P6, I've supported projects through subcontractor coordination, reviewing and redlining shop drawings, preparing RFIs/RFQs, tracking change orders, and updating project schedules.\nI've worked with engineers, MEP consultants, and civil contractors on commercial, residential, and public sector developments, ensuring deliverables meet design intent, budget, and timelines."
 # - displayed at the bottom
-closing-head: _Your closing_
-closing-para: _Your detailed closing_
+closing-head: "Patience"
+closing-para: Architecture transcends function; it is the repository of a people's memory. When this connection is lost, the built form ceases to speak.
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
   twitter: https://x.com/BABERALIHAMZA1
-  github: https://github.com/_username_
+  # github: 
   linkedin-square: https://linkedin.com/in/baberalihamza/
   facebook-official: https://www.facebook.com/profile.php?id=61552425728907
   #google-plus-square: https://plus.google.com/u/0/+_username_
-  email: /contact/ # you can configure and use this contact page or use your email addy
+  email: mailto:baberalihamzah@gmail.com # you can configure and use this contact page or use your email addy
   #flickr:
   #instagram:
   #youtube-square:

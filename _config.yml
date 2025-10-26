@@ -32,7 +32,7 @@ greeting:
   text: "I'm a Master's graduate in Construction Engineering and Project Management from Concordia University and a licensed architect in South Asia with a Bachelor's in Architecture. My thesis focused on mental health facility design, exploring how spatial planning influences well-being.\nProficient in Revit, AutoCAD, BIM 360, Navisworks, and Primavera P6, I've supported projects through subcontractor coordination, reviewing and redlining shop drawings, preparing RFIs/RFQs, tracking change orders, and updating project schedules.\nI've worked with engineers, MEP consultants, and civil contractors on commercial, residential, and public sector developments, ensuring deliverables meet design intent, budget, and timelines."
 # - displayed at the bottom
 closing-head: "Patience"
-closing-para: Architecture transcends function; it is the repository of a people's memory. When this connection is lost, the built form ceases to speak.
+closing-para: "Architecture transcends function; it is the repository of a people's memory. When this connection is lost, the built form ceases to speak."
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
